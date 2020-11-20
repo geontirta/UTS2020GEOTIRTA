@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680539104106",
+    "firebase_url": "https://ptravelku.firebaseio.com",
+    "project_id": "ptravelku",
+    "storage_bucket": "ptravelku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680539104106:android:0c749e318a9a524c34bb13",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7a_1711500015_geotirta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680539104106-afcec2smtmdjglgfnqlgqrd5imu0f5m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiehjEWHY55-zUZ8dlo7ebQtkA1Kq1AiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680539104106-afcec2smtmdjglgfnqlgqrd5imu0f5m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
